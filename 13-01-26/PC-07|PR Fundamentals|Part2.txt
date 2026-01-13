@@ -1,0 +1,132 @@
+01. Write pseudo code to check if a given string, is a palindrome.
+START
+READ str
+rev<-empty string
+FOR i<-length(str) DOWNTO 1
+    rev<-rev+str[i]
+END FOR
+IF str==rev THEN
+    PRINT"palindrome"
+ELSE
+    PRINT"not palindrome"
+END IF
+END
+02. Write pseudo code to sort a list of integers in ascending order.
+START
+READ array A of size n
+FOR i<-1 TO n-1
+    FOR j<-1 TO n-i
+        IF A[j]>A[j+1] THEN
+            SWAP A[j],A[j+1]
+        END IF
+    END FOR
+END FOR
+PRINT A 
+END
+03. Write a pseudo code to compute Euclidian distance between two coordinates in two-dimensional plane.
+START
+READ x1,y1,x2,y2
+distance<-SQRT((x2-x1)^2+(y2-y1)^2)
+PRINT distance
+END
+04. Write pseudo code for the to find a target value in a sorted list.
+START
+READ array A, size n, target
+low ← 1
+high ← n
+WHILE low ≤ high
+    mid ← (low + high) / 2
+    IF A[mid] = target THEN
+        PRINT "Found"
+        STOP
+    ELSE IF A[mid] < target THEN
+        low ← mid + 1
+    ELSE
+        high ← mid - 1
+    END IF
+END WHILE
+PRINT "Not Found"
+END
+05. Write pseudo code for the Depth-First Search algorithm to traverse a graph.
+DFS(node)
+    PRINT node
+    MARK node as visited
+
+    FOR each adjacent node v of node
+        IF v is not visited THEN
+            DFS(v)
+        END IF
+    END FOR
+END DFS
+
+06. Write pseudo code to generate the first n numbers in the Fibonacci sequence.
+START
+READ n
+a<-0
+b<-1
+PRINT a 
+PRINT b
+FOR i<-3 TO n
+    c<-a+b
+    PRINT c
+    a<-b
+    b<-c
+END FOR 
+END
+07. Write pseudo code to calculate the factorial of a given positive integer.
+START
+READ n 
+fact<-1
+FOR i<- 1 TO n
+    fact<-fact*i
+END FOR 
+PRINT fact
+END
+08. Write pseudo code to determine if a given number, is a prime number.
+START
+READ n
+flag ← 1
+
+IF n ≤ 1 THEN
+    PRINT "Not Prime"
+    STOP
+END IF
+
+FOR i ← 2 TO n/2
+    IF n MOD i = 0 THEN
+        flag ← 0
+        BREAK
+    END IF
+END FOR
+
+IF flag = 1 THEN
+    PRINT "Prime"
+ELSE
+    PRINT "Not Prime"
+END IF
+END
+
+09. Write pseudo code for a function that calculates the power of a number, given the base and exponent.
+START
+READ base , exponent
+result<-1
+FOR i<-1 TO exponent
+    result<-result*base
+END for
+PRINT result
+END
+10. Write pseudo code to find two numbers in a list such that they add up to a specific target number.
+START
+READ array A of size n, target
+
+FOR i ← 1 TO n-1
+    FOR j ← i+1 TO n
+        IF A[i] + A[j] = target THEN
+            PRINT A[i], A[j]
+            STOP
+        END IF
+    END FOR
+END FOR
+
+PRINT "No pair found"
+END
