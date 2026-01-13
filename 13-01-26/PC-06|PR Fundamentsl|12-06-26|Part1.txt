@@ -1,0 +1,97 @@
+01. Write a pseudo code for a loop that prints the numbers from 1 to 10. 
+Answer:
+START
+FOR i <- 1 TO 10
+    PRINT i
+END FOR
+END
+
+02. Write a pseudo code to find the sum of all even numbers from 1 to 100. 
+Answer:
+START
+SUM <-0
+FOR i<-1 TO 10
+    IF i MOD 2 =0 THEN
+        SUM=SUM+i
+    END IF
+END FOR
+PRINT SUM
+END
+
+03. Write pseudo code to calculate the average of three numbers. 
+START
+READ a,b,c
+sum<-a+b+c 
+average<-sum/3
+PRINT average
+END
+
+04. Write a pseudo code to find the maximum of three numbers. 
+START
+READ a,b,c 
+IF a>b AND a>c
+    PRINT a
+ELSE IF b>a AND b>c
+    PRINT b
+ELSE
+    PRINT c
+END IF
+END
+
+05. Write a pseudo code to find the maximum of five numbers. 
+START
+READ a,b,c,d,e
+max<-a
+IF b>max THEN max<-b
+IF c>max THEN max<-c
+IF d>max THEN max<-d
+IF e>max THEN max<-e
+PRINT max
+END
+
+06. Write pseudo code to determine if a given number is even or odd. 
+START 
+READ n
+IF n MOD 2 =0 THEN
+    PRINT"EVEN"
+ELSE 
+    PRINT"ODD"
+END IF
+END
+
+07. Write a pseudo code to reverse a given string. 
+START
+READ str
+rev<-empty str
+FOR i<-length(str) DOWNTO 1
+    rev<-rev+str[i]
+END FOR
+PRINT rev
+END
+
+08. Write pseudo code to calculate simple interest, given principle, rate of interest and time. 
+START
+READ p,r,t
+SI=(p*r*t)/100
+PRINT SI
+END
+
+09. Write pseudo code to calculate compound interest, given principle, rate of interest and time. 
+START
+READ p,r,t
+amount=p*(1+r/100)^t
+CI=amount-p
+PRINT CI
+END
+
+10. Write pseudo code to calculate and print compound interest for each year, given principle, rate of interest and time.
+START
+READ p,r,t
+amount=p
+
+FOR i<-1 TO t
+    amount<-amount*(1+r/100)
+CI<-amount - p
+PRINT"YEAR:",y,"Compound Interest:",CI
+END FOR
+END
