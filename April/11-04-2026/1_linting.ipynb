@@ -1,0 +1,93 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "6e049791-d8f1-4a52-afa7-a56881435faa",
+   "metadata": {},
+   "source": [
+    "# Linting "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "962f032c-707e-49e3-9495-eb8c1416f1c7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Area of the circle with radius5 is 78.53975.\n"
+     ]
+    }
+   ],
+   "source": [
+    "pi=3.14159\n",
+    "def calculate_area(radius):\n",
+    "    global pi\n",
+    "    area=pi*radius**2\n",
+    "    return area\n",
+    "\n",
+    "radius=5\n",
+    "print(f\"Area of the circle with radius{radius} is {calculate_area(radius)}.\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "4edf35c5-c808-4b7f-a6ed-28d17a9ac880",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Area of the circle with radius 5 is 78.53975.\n"
+     ]
+    }
+   ],
+   "source": [
+    "\"\"\"This module calculates the area of a circle.\"\"\"\n",
+    "\n",
+    "PI = 3.14159#approx value\n",
+    "\n",
+    "def calculate_area(radius):\n",
+    "    \"\"\"Calculate and return the area of a circle.\"\"\"\n",
+    "    area=PI * RADIUS ** 2\n",
+    "\n",
+    "RADIUS = 5\n",
+    "print(f\"Area of the circle with Radius {RADIUS} is {calculate_area(RADIUS)}.\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6a7a4c81-3835-4320-9b3f-117b327ef92d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python (global)",
+   "language": "python",
+   "name": "globalpython"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
