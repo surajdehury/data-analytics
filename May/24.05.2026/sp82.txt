@@ -1,5 +1,5 @@
 Categories of SQL
-1.DDL-create,alter,drop and truncate
+1.DDL-create,alter,drop and truncateß
 2.DML-Insert update,delete
 3.DCL-give access and revoke access
 4.TCL
