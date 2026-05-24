@@ -1,0 +1,6 @@
+Categories of SQL
+1.DDL-create,alter,drop and truncate
+2.DML-Insert update,delete
+3.DCL-give access and revoke access
+4.TCL
+5.DQL-data query language-retrieving of data from database
