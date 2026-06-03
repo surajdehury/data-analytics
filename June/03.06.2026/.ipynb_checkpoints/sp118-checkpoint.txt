@@ -1,1 +1,25 @@
 Done
+using subquery through command prompt
+
+
+-mysql -u rppt -p
+-show databse;
+-use ord_mgmt;
+-show tables;
+
+
+SELECT * FROM PRODUCT
+WHERE prod_price>(SELECT prod_price FROM Product
+                  WHERE prod_desc LIKE '%TV%');
+
+This will show error as the subquery contains the output more than 1 row.
+
+
+# to mke use of the innner subquery we use the keywords like 'ALL','ANY'.
+
+SELECT * FROM PRODUCT
+WHERE prod_price>ALL(SELECT prod_price FROM Product
+                  WHERE prod_desc LIKE '%TV%');
+ output- prices more than all the output of the subquery 
+
+

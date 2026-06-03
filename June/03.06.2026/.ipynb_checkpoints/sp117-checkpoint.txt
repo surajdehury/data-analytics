@@ -1,1 +1,6 @@
 Done
+using subquery part 1
+
+select * from product
+where prod_price >(select prod_price from product
+where prod_desc='SKY LED 102 CM TV');
