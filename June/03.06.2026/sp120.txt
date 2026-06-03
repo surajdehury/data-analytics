@@ -1,0 +1,12 @@
+Done.
+#Subqueries and join
+
+SELECT prod_id,prod_desc,prod_price
+FROM Product
+WHERE prrodd_cat_id=(SEELECT prod_cat_id from product
+                     where prod_desc='Disney Analog Watch')
+                     AND product_price>(SELECT prod_price from product
+                     Where prod_desc='Disney Analog Watch');
+
+
+We can use p1.and p2 for inner join creating the code smaller and have a comprreseed version of the above code so basiucally we can use any of it.
