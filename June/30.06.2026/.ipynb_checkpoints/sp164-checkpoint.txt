@@ -1,0 +1,7 @@
+Text to Column
+
+Sheet-Supplier
+1.Select the phone column
+2.Go to data select text to column
+3.Then select delimited->Click Next->Finish
+4.There if the there is a negative no then we will use ABS() to make it posistive.
