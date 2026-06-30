@@ -1,0 +1,15 @@
+connecng to workbook(can only be done in windows bcuz mac requires odbc driver)
+
+1.Go to the data 
+2.Get Data
+3. click from databse 
+4.connect the db in sql server or other platform copy the connection from db and copy it to the excel details
+5.Server name
+login crendentials
+
+next page select the db
+then content means which table or content you want to import select
+
+6.import data dialog box opens
+after that select the table where you want to import
+7 Click okay.
