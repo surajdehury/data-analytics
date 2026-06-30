@@ -1,0 +1,17 @@
+Dupplictes
+
+Order details sheet
+
+
+
+1.set the particular columns from sheet
+2.select conditional formatiing 
+3.select highlight ccell rules
+4.select duplicates
+
+
+for removing 
+1.go to the data tab
+2.click on the remove duplicates
+3.select the columns you want to reme duplicates from
+
