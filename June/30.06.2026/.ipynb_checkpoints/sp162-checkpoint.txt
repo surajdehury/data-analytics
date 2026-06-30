@@ -1,0 +1,5 @@
+Capitalization
+
+i want all contents of the columns in the capital then UPPER()
+in lower then LOWER()
+then if in proper then PROPER()-(Suraj Dehury)

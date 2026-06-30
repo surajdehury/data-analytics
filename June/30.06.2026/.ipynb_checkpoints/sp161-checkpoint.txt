@@ -1,0 +1,6 @@
+Data Cleaning
+
+How to remove blank space (___Suraj Dehury___)
+we we  use TRIM() 
+How to remove line breaks 
+we will use CLEAN()
