@@ -1,4 +1,6 @@
 Combine data from mutiple columns to single columns
 
+
+Sheet-Employees
 1.USE CONCATENATE()  or CONCAT()  or "&"
 2.select both columns and use it 

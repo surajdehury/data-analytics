@@ -1,0 +1,8 @@
+Text to date
+
+Sheet-Sheet2
+
+1.Select Homebutton 
+2.Change general to long date
+3.Seleecct new columns and use =VALUE(DOB columns cell select)
+4.Then Click on done .
