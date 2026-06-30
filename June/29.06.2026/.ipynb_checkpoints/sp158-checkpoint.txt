@@ -1,0 +1,11 @@
+northwind.xlsx
+book1.xlsx
+
+
+then we are going to import data from nortwind to ok 1
+
+1.go to data tab
+2.get data
+3.from the current device 
+4.select folder and file that is northwind 
+5.click import and it will import.

@@ -1,0 +1,11 @@
+statisticaforecasting functions
+
+
+1.go to the data tab  in(book1.xlsx)
+2.go yo the data analysis tab
+3.select regression
+
+
+4.then input y range range and x range
+5.select type of datas then click OK
+6.Then we will getting the data in new sheet
