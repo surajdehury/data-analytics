@@ -1,0 +1,7 @@
+Conneecting from weto the workseet
+1.data tab
+2.get data query
+3.select the web
+4.copy the link and paste in 
+5.select which table you want toselect 
+6.in current worksheet or in thee new worksheet.
