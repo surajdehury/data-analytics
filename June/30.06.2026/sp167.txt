@@ -1,0 +1,9 @@
+Creating charts
+
+Customers sheet
+
+
+1.Select both columns at a time 
+2.Go to the Insert Tab
+3.Click on the recommended charts
+4.Click Ok
