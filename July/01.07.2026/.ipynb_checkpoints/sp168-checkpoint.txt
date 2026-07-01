@@ -1,0 +1,6 @@
+Types of chart
+
+Book1 sheet 2
+
+1.Diff chartbar chart,line chart,pie chart,area chart,scatter chart,stok chart
+
