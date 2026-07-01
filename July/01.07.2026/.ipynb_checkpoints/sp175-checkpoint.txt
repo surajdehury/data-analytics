@@ -1,0 +1,12 @@
+Radar chart
+
+
+book 1 sheet 2\
+
+In radar each databset is represnted by a line chart
+
+
+useful when we visualize and compare mutlltipe variable in a single chart
+used for business sport where performance metrix needs to be compared
+
+

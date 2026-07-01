@@ -1,0 +1,5 @@
+Surface Chart
+
+Sheet 2 of Bok 1
+
+A surface chart displays data points in 3 dimesnions on a continuous surface.
