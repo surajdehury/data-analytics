@@ -1,0 +1,7 @@
+Linking charttitles
+
+book 1,sheet 2
+
+1. click on the cgart tile in the graph 
+2. rlace equal to and outside e bar outside the graph  abovee table there musbe a header cck  the cell and press enter
+3.What you change inside the cell above theable it will automatically change inside the graph.
