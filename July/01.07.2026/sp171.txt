@@ -1,0 +1,7 @@
+using gaphics to enhance chart
+
+
+book 1 sheet 2
+
+1choose thecharts chart region
+2.go to the insert tab and click add pictures add from web or the local system and place it according to the user requirement
