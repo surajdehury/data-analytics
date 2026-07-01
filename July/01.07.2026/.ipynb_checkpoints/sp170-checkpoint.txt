@@ -1,0 +1,6 @@
+Editing chart -advance
+
+Book1 ,sheet 2
+
+create chart
+then click on the chart design change acc to ur requirement
