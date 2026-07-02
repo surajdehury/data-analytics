@@ -1,0 +1,12 @@
+Timeline   
+
+table order-sheet 5
+
+Click on the date
+go to insert click on pivot table and create
+then click on timeline
+choose order date
+then select table and drag order date & oreder id in rows
+
+
+then Sum of values of order id there we need to change it to cnt

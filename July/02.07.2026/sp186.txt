@@ -1,0 +1,11 @@
+Hyperlink
+
+
+
+Cick on a cell and write name in it google
+the right click and go to the hyperlink add google hyperlink and click on oka
+
+
+filinking to the othewr sheet same selelct the sheet which you want to link it will automatically etch when we  click on the header
+
+

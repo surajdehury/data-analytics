@@ -1,0 +1,14 @@
+data modleiing
+
+
+new excel 
+
+click on the import the datat 
+then goo the file loc oof northwind click the table you want to import then 
+after that after successfly extracting then we are going to the power pivot 
+then go to manage
+then go to the diagram view
+
+
+connect all th table among them 
+click on desgin thenon manage realtionshiup we can see the cardinalty
