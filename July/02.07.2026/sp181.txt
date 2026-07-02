@@ -1,0 +1,17 @@
+Filter and Slicers
+
+Sheet4,products
+
+Drag product name to rows
+drag unitprice,unitsinstoc,unitson order to VALUES.
+
+Click on Row Label
+Drag categoryname to the filters and in the filter opf all drop down menu select beverages
+
+
+
+FOR SLICER
+-Go to the Pivot table analyse
+Click on Insert slicers
+acoordingly we can manage the pivot table requirements
+

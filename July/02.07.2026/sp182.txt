@@ -1,0 +1,5 @@
+Pivot vhart 
+
+CLick on beverage in the fer option 
+then go to the pivot vhart analysis 
+then sselect pivot chart
