@@ -1,0 +1,17 @@
+Intruction toe pivot table
+
+
+
+Table Customer
+
+
+1.Select all the colums in the sheet
+2.go to the insert toggle bar aclick on the pivot table 
+3.then you can do operations of your own by draggin the the columns header according to the user requirement
+
+
+Q. Company frequemcy based on country
+1.Drag counry to the row
+2.drag country to count
+
+Suppose you want to do other operations for that click on the right side of the count can change to other operations accordingly
