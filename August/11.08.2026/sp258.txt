@@ -17,5 +17,3 @@ Drag & drop interface
 data blending & data discovery
 trend lines and predictive analysis
 
-
-
