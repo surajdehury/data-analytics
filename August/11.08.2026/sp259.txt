@@ -8,3 +8,6 @@ VizQL
 
 it is basically a language used by tableau
 proprietary technolgy used to translate drag and drop actions into database queries.
+
+Qalitative -category,city ,id 
+Quantitative-discount,gains,revenue

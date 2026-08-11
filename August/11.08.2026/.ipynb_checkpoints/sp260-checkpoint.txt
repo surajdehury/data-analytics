@@ -1,0 +1,9 @@
+Tableau products and family versions
+
+
+tableau desktop
+tableau prep-extract,transform and learn
+tableau public
+tableau mobile
+tableau online
+tableau CRM- cloud tool used for management.
