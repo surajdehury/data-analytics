@@ -1,0 +1,21 @@
+Introduction to Tableau
+-Tableau is a powerful data visualization and BI tool that allows users to easily connect to data sources and analyse data ,and share insights with others
+
+
+Benefits of tableau:
+
+Scalability 
+Flexibilty
+data visualization
+data integration
+easy to use
+
+Features:
+
+Interactive dashboards
+Drag & drop interface
+data blending & data discovery
+trend lines and predictive analysis
+
+
+

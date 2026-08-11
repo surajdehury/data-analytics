@@ -1,0 +1,10 @@
+Data Visualization-
+
+graphical representation of data.
+allows users to quickly and easily interpret complex info
+
+
+VizQL
+
+it is basically a language used by tableau
+proprietary technolgy used to translate drag and drop actions into database queries.
