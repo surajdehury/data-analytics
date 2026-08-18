@@ -1,0 +1,14 @@
+
+1.Building a dashboard.
+2.create a worksheet.
+3.develop dashboard.
+4.customize the dashboard.
+
+
+Create dashboard in navigation pane->For the create sheet
+Features:Horizontal,vertical,text,extension,webpages,naviagtion,blank,workflow,add filter.
+
+
+What is the first step in building a dashboard?
+->connect to the data source.
+
